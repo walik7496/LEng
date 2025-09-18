@@ -1,6 +1,6 @@
-# Learn English - PHP Devel Next
+# Test English - PHP Devel Next
 
-**Learn English** is a simple program designed to help users learn English by testing their ability to translate Russian words to English. This application is written in PHP using Devel Next framework.
+**Test English** is a simple program designed to help users test their knowledge of English words by translating Russian words into English. This application is written in PHP using the Devel Next framework.
 
 ## Features
 
